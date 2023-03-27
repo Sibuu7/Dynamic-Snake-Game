@@ -1,2 +1,2 @@
 # snake_game_
-## First GTA project
+## First Js logic builduing project
